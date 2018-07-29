@@ -1,5 +1,5 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Design-Code 3 React app
+It uses the default Gatsby starter.
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
@@ -17,7 +17,7 @@ gatsby new gatsby-example-site
 
 Then you can run it by:
 ```sh
-cd gatsby-example-site
+cd design-code
 gatsby develop
 ```
 
